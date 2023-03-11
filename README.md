@@ -1,6 +1,5 @@
 # Professionalising traditional and infrastructure research roles in data science
 
-## Welcome!
 <img src="researchers-environment (1).jpg" alt="An image of the modern research environment filled with research engineers, community managers, research application managers and data stewards" width="70%">
 
 * [What this project is about and why is it important](#what-is-this-project-about-and-why-is-it-important)
