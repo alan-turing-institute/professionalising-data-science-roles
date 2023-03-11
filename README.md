@@ -3,6 +3,7 @@
 ## Welcome!
 
 ![Research environment](https://github.com/alan-turing-institute/professionalising-data-science-roles/blob/main/researchers-environment%20(1).jpg)
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 
 * [What this project is about and why is it important](#what-is-this-project-about-and-why-is-it-important)
 * [What we want to do](#what-do-we-want-to-do)
