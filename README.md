@@ -47,7 +47,7 @@ If you are interested in finding out more about this project, please do contact 
 * Emma Karoune - ekaroung@turing.ac.uk 
 * Malvika Sharan - msharan@turing.ac.uk
 
-##Find out more
+## Find out more
 * [Policy Skills award](https://www.turing.ac.uk/skills-policy-awards-20232024)
 * [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research)
 * [The Turing Way](https://the-turing-way.netlify.app/welcome.html)
