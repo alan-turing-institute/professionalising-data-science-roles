@@ -4,7 +4,7 @@
 
 Thanks for visiting the _Professionaling traditional and infrastructure data science roles_ project! In this document you can find lots of information about this project. You can just scroll down or use the quick links below for each section.
 
-![Research environment]()
+![Research environment](https://github.com/alan-turing-institute/professionalising-data-science-roles/blob/main/researchers-environment%20(1).jpg)
 
 * [What this project is about and why is it important](#what-is-this-project-about-and-why-is-it-important)
 * [What we want to do](#what-do-we-want-to-do)
