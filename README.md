@@ -28,7 +28,7 @@ The objectives of this project are:
 
 ## What this project needs
 We want to know about the data science roles in your institution.
-* what do these people do?
+* what do tasks do these people do?
 * what skills do they have?
 * have you already developed job descriptors for these roles?
 Please do connect with us and look out for our networking events. 
