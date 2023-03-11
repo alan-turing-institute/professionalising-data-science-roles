@@ -13,7 +13,7 @@ _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5
 
 ## What this project is about and why is it important
 
-The National Audit Office report on [‘Challenges in using data across government’](https://www.nao.org.uk/insights/challenges-in-using-data-across-government/) highlights the current gap in data skills at several levels including storage, management, architecture, planning and governance. The majority of these skills are essential for traditional data science research roles, and even more important for professionalising modern roles such as research engineers, data stewards, community managers, research application managers and more. These modern roles are often term [research infrastructure roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) and are becoming important alternative career pathways for researchers.
+The National Audit Office report on [‘Challenges in using data across government’](https://www.nao.org.uk/insights/challenges-in-using-data-across-government/) highlights the current gap in data skills at several levels including storage, management, architecture, planning and governance. The majority of these skills are essential for traditional data science research roles, and even more important for professionalising modern roles such as research engineers, data stewards, community managers, research application managers and more. These modern roles are often termed [research infrastructure roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) and are becoming important alternative career pathways for researchers.
 
 The skills gap identified by the National Audit Office is compounded by a lack of clarity in definitions for data science roles and their skill requirements. The [National Data Strategy](https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy) states that there is no widely agreed definition of data skills and the role descriptors are used inconsistently across different institutions. Therefore, to enable the upskilling of the current workforce, develop more national and international consistency in hiring practices for these roles, and identify the skills needed by the next generation of data professionals, we need to close this knowledge gap by developing clear definitions of roles in data science and the skills needed to perform these roles. 
 
@@ -30,6 +30,7 @@ The objectives of this project are:
 We want to know about the data science roles in your institution.
 * what do these people do?
 * what skills do they have?
+* have you already developed job descriptors for these roles?
 Please do connect with us and look out for our networking events. 
 
 ## Who we are
@@ -49,6 +50,7 @@ If you are interested in finding out more about this project, please do contact 
 ##Find out more
 * [Policy Skills award](https://www.turing.ac.uk/skills-policy-awards-20232024)
 * [Open Research Community Building](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research)
+* [The Turing Way](https://the-turing-way.netlify.app/welcome.html)
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
