@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-Thanks for visiting the _Professionaling traditional and infrastructure data science roles_ project! In this document you can find lots of information about this project. 
+Thanks for visiting the _Professionaling traditional and infrastructure data science roles_ project! 
 
 ![Research environment](https://github.com/alan-turing-institute/professionalising-data-science-roles/blob/main/researchers-environment%20(1).jpg)
 
