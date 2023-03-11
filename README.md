@@ -1,9 +1,7 @@
 # Professionalising traditional and infrastructure research roles in data science
 
 ## Welcome!
-
-![Research environment](https://github.com/alan-turing-institute/professionalising-data-science-roles/blob/main/researchers-environment%20(1).jpg)
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+<img src="researchers-environment (1).jpg" alt="An image of the modern research environment filled with research engineers, community managers, research application managers and data stewards" width="50%">
 
 * [What this project is about and why is it important](#what-is-this-project-about-and-why-is-it-important)
 * [What we want to do](#what-do-we-want-to-do)
