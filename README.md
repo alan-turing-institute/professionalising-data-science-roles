@@ -34,12 +34,20 @@ We want to know about the data science roles in your institution.
 Please do connect with us and look out for our networking events. 
 
 ## Who we are
+This project very much encompasses key aspects of the Turing's Tools, Practices and Systems Programme (TPS) in which we are advocating for and demosntrating how teams of research infrastructure professionals can add value and impact to research projects. Therefore, the whole TPS team will have input on this project to curate the work that they are currently doing in this area.
+
+Please use this link to find out more about the [Tools, Practices and Systems Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) and also the links below to find out about our research infrastructure teams: 
+* [Research Applications Managers](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/research-application-management)
+* [Research Communituy Managers](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research)
+
+**Two members of the TPS team are leading this project:**
+
 ### Emma Karoune
-Emma works in the Tools, Practices and Systems Programme as a Senior Community Manager. She oversee community management in the Turing Health programme including working with the Turing-RSS Health Data Lab and the DECOVID project. She is a core contributor to The Turing Way (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. Emma's research background is in archaeobotany and she has been leading a project at Historic England on FAIR data. 
+Emma works in the Tools, Practices and Systems Programme as a Senior Research Community Manager. She oversee community management in the Turing Health programme including working with the Turing-RSS Health Data Lab and the DECOVID project. She is a core contributor to The Turing Way (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. Emma's research background is in archaeobotany and she has been leading a project at Historic England on FAIR data. 
 Find out more about Emma's research work here: [Emma Karoune Turing Profile](https://www.turing.ac.uk/people/research-associates/emma-karoune)
 
 ### Malvika Sharan
-Malvika is a Senior Researcher in the Tools, Practices and Systems research programme. She is leading on Open Research at The Alan Turing Institute and establishing a growing team of community managers. She is a co-lead investigator of The Turing Way project – a community-led handbook on data science, that aim to make research reproducible, collaborative, ethical and inclusive for researchers around the globe.
+Malvika is a Senior Researcher in the Tools, Practices and Systems research programme. She is leading on Open Research at The Alan Turing Institute and establishing a growing team of research community managers. She is a co-lead investigator of The Turing Way project – a community-led handbook on data science, that aim to make research reproducible, collaborative, ethical and inclusive for researchers around the globe.
 Find out more about Malvika's research work here: [Malvika Sharan Turing Profile](https://www.turing.ac.uk/people/researchers/malvika-sharan)
 
 ## Get in touch
