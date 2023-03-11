@@ -2,6 +2,8 @@
 
 <img src="researchers-environment (1).jpg" alt="An image of the modern research environment filled with research engineers, community managers, research application managers and data stewards" width="70%">
 
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+
 * [What this project is about and why is it important](#what-is-this-project-about-and-why-is-it-important)
 * [What we want to do](#what-do-we-want-to-do)
 * [What does this project need?](#what-does-this-project-need)
