@@ -69,6 +69,14 @@ Find out more about Malvika's research work here: [Malvika Sharan Turing Profile
 They will engage all the members of the TPS programme who will have opportunities to input on this project and highlight the work that they are currently doing in this area.
 This work will be closely aligned with and conducted in collaboration with the Turing Skills Team, as well as other awardees of the Skill Policy Awards.
 
+## Project updates
+
+See detailed project reports [here](https://github.com/alan-turing-institute/professionalising-data-science-roles/blob/main/project_management/reports/SPA-PDSR-Report-June-2023-no-figs.pdf)
+
+* Multi-stakeholder workshop will be hosted at The Alan Turing Institute on 2 October 2023.
+* Skills framework for Research Community Managers
+  * Sharan, Malvika, & Karoune, Emma. (2023). Research Community Management - Skills framework. Zenodo. https://doi.org/10.5281/zenodo.8337627   
+
 ## Get in touch
 
 If you are interested in finding out more about this project, please do contact us.
