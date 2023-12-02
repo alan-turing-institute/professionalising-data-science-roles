@@ -66,7 +66,7 @@ Find out more about Emma's research work here: [Emma Karoune Turing Profile](htt
 
 Malvika is a Senior Researcher in the Tools, Practices and Systems research programme. She is leading Open Research at The Alan Turing Institute and establishing a growing team of research community managers. She is a co-lead investigator of The Turing Way project – a community-led handbook on data science, that aims to make research reproducible, collaborative, ethical and inclusive for researchers around the globe.
 
-Find out more about Malvika's research work here: [Malvika Sharan Turing Profile](https://www.turing.ac.uk/people/researchers/malvika-sharan) and [Malvika's orcid record](https://orcid.org/0000-0001-6619-7369)
+Find out more about Malvika's research work here: [Malvika Sharan Turing Profile](https://www.turing.ac.uk/people/researchers/malvika-sharan) and [Malvika's orcid record](https://orcid.org/0000-0001-6619-7369).
 
 They will engage all the members of the TPS programme who will have opportunities to input on this project and highlight the work that they are currently doing in this area.
 This work will be closely aligned with and conducted in collaboration with the Turing Skills Team, as well as other awardees of the Skill Policy Awards.
