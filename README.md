@@ -59,12 +59,14 @@ Two TPS members leading this project are:
 ### Emma Karoune 
 
 Emma works in the Tools, Practices and Systems Programme as a Senior Research Community Manager. She oversees community management in the Turing Health programme including working with the Turing-RSS Health Data Lab and the DECOVID project. She is a core contributor to The Turing Way (an open-source community-led guide to reproducible research), and a member of the Bookdash planning committee, helping to build resources and training for other researchers. Emma's research background is in archaeobotany and she has been leading a project at Historic England on FAIR data. 
-Find out more about Emma's research work here: [Emma Karoune Turing Profile](https://www.turing.ac.uk/people/research-associates/emma-karoune)
+
+Find out more about Emma's research work here: [Emma Karoune Turing Profile](https://www.turing.ac.uk/people/research-associates/emma-karoune) and [Emma's orcid record](https://orcid.org/0000-0002-6576-6053). 
 
 ### Malvika Sharan 
 
 Malvika is a Senior Researcher in the Tools, Practices and Systems research programme. She is leading Open Research at The Alan Turing Institute and establishing a growing team of research community managers. She is a co-lead investigator of The Turing Way project – a community-led handbook on data science, that aims to make research reproducible, collaborative, ethical and inclusive for researchers around the globe.
-Find out more about Malvika's research work here: [Malvika Sharan Turing Profile](https://www.turing.ac.uk/people/researchers/malvika-sharan)
+
+Find out more about Malvika's research work here: [Malvika Sharan Turing Profile](https://www.turing.ac.uk/people/researchers/malvika-sharan) and [Malvika's orcid record](https://orcid.org/0000-0001-6619-7369)
 
 They will engage all the members of the TPS programme who will have opportunities to input on this project and highlight the work that they are currently doing in this area.
 This work will be closely aligned with and conducted in collaboration with the Turing Skills Team, as well as other awardees of the Skill Policy Awards.
