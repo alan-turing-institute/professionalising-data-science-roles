@@ -6,3 +6,4 @@ This workshop was organised to bring together a multi-stakeholder group consisti
 Please read these documents to find out more about the workshop:
 * Agenda
 * Pre-workshop handout
+* Workshop summary
