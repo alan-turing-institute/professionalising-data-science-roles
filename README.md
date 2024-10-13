@@ -16,7 +16,7 @@ In the ever-evolving landscape of data science, specialised roles have become in
 This project aims to address the gap in the policy landscape that would standardise and strengthen specialised research infrastructure roles alongside the traditional roles in data science.
 The goal is to professionalise dedicated specialised as well as general roles for ensuring high-quality ethical research at institutional and national levels.
 
-<img src="researchers-environment (1).jpg" alt="An image of the modern research environment filled with research engineers, community managers, research application managers and data stewards" width="70%">
+<img src="assets/researchers-environment.jpg" alt="An image of the modern research environment filled with research engineers, community managers, research application managers and data stewards" width="70%">
 
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 
